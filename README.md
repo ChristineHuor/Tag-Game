@@ -18,7 +18,7 @@ Collect coins scattered around the map for extra points!
 
 Survive the round as the non-tag player to gain bonus points!
 
-🕹 Controls
+- Controls
 
 Player 1: Arrow keys (⬆️⬇️⬅️➡️) to move.
 
